@@ -1,4 +1,4 @@
-from langchain_openai import OpenAI
+from langchain_openai import OpenAI # open ai is inherting from llm base class
 from dotenv import load_dotenv
 
 load_dotenv()
