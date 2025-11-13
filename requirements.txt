@@ -10,8 +10,8 @@ openai
 langchain-anthropic
 
 # Google Gemini (PaLM) Integration
-langchain-google-genai==2.1.10
-google-generativeai==0.8.3
+langchain-google-genai
+google-generativeai
 
 
 # Hugging Face Integration
